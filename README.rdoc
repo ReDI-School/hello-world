@@ -1,4 +1,5 @@
 == ReDI School - Hello World
+Let's build a different hello world app. Let's build an app where each student gets a voice and can send a message to the world. And let's build it together.
 
 === Instructions for Students
 * Get an account at GitHub - https://help.github.com/articles/signing-up-for-a-new-github-account/
