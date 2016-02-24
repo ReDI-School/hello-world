@@ -5,9 +5,9 @@
 * Set up your GitHub account on your machine - https://help.github.com/articles/setting-your-username-in-git/
 * Get acquainted with Git commands - https://try.github.io/levels/1/challenges/1
 * Fork this repository to your GitHub account - https://help.github.com/articles/fork-a-repo/
-* Clone the repository to your machine -
+* Clone the repository to your machine 
 * Say hello to the world by adding HTML or Ruby code to +/app/views/welcome/index.html.erb+
-* Test your changes by running +rails server+
+* Test your changes by running +rails+ +server+
 * Commit your changes to your local Git repository
 * Push your changes to your online Git repository
 * Send a pull request to have your changes added to the original repository - https://help.github.com/articles/using-pull-requests/
